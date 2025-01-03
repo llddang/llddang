@@ -10,6 +10,7 @@
   <img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llddang&layout=compact&theme=nord&hide_border=true" />
   <img style="height:180px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lddang" />
   <img style="height:180px;" src="https://render.gitanimals.org/farms/llddang" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=llddang&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="80%"/>
 </div>
 <br />
 <br />
