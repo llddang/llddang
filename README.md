@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=llddang&fontSize=90)
+<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=llddang&fontSize=90" />
 
 
 ### 🌈 Welcome to llddang 👋 
