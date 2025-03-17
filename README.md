@@ -6,7 +6,7 @@
 - 🌱 I’m currently interested in `React`, `Next.js`
 
 <div align= "center">
-  <img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=llddang&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+  <img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=llddang&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="llddang's github stats" />
   <img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llddang&layout=compact&theme=nord&hide_border=true" />
   <img style="height:180px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lddang" />
   <img style="height:180px;" src="https://render.gitanimals.org/farms/llddang" />
